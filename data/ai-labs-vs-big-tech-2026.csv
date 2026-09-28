@@ -1,0 +1,15 @@
+company,group,difficulty,offer_rate,positive,negative,reports,median_pay,source_url
+Google,Big Tech,3.35,21%,65%,11%,"2,337","$259,475",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+Meta,Big Tech,3.33,20%,57%,17%,"1,743","$360,236",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+Groq,AI Lab,3.32,43%,68%,26%,53,"$334,384",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+Google DeepMind,AI Lab,3.30,18%,58%,26%,230,"$270,100",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+Anthropic,AI Lab,3.28,4%,36%,38%,550,"$555,000",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+OpenAI,AI Lab,3.23,9%,34%,31%,831,"$468,338",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+xAI,AI Lab,3.22,23%,51%,22%,129,"$645,000",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+Amazon,Big Tech,3.21,35%,59%,14%,"2,875","$293,838",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+NVIDIA,Big Tech,3.21,16%,58%,17%,"2,235","$247,000",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+Apple,Big Tech,3.16,29%,61%,12%,"1,212","$292,822",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+Microsoft,Big Tech,3.13,32%,66%,12%,"1,889","$206,600",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+Netflix,Big Tech,3.12,18%,54%,23%,"1,702","$514,000",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+Mistral AI,AI Lab,2.98,21%,27%,46%,57,—,https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026
+Cohere,AI Lab,2.90,17%,53%,27%,68,"$322,500",https://www.dataford.io/blog/ai-labs-vs-big-tech-hardest-interviews-2026

@@ -1,0 +1,51 @@
+rank,company,offer_rate,reports,difficulty,positive,negative,median_pay,source_url
+1,Anthropic,4%,550,3.28,36%,38%,"$555,000",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+2,Hudson River Trading,6%,531,3.43,46%,18%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+3,Clipboard Health,7%,500,3.41,13%,71%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+4,Canonical,8%,520,3.44,12%,63%,"$146,317",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+5,Jane Street,8%,627,3.54,70%,6%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+6,OpenAI,9%,831,3.23,34%,31%,"$468,338",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+7,Akuna Capital,9%,650,3.39,41%,16%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+8,Two Sigma,11%,695,3.37,44%,24%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+9,BairesDev,12%,690,2.72,81%,12%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+10,Ramp,12%,761,3.14,36%,34%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+11,Citadel,12%,751,3.41,44%,15%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+12,Citadel Securities,12%,534,3.49,53%,11%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+13,Pocket Gems,12%,459,3.13,38%,27%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+14,Everlaw,12%,338,3.19,43%,27%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+15,Susquehanna International Group,13%,530,3.21,57%,9%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+16,DRW,13%,534,3.28,44%,19%,"$177,500",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+17,DRW Holdings,13%,500,3.28,44%,19%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+18,RAMP Consulting Group,13%,510,3.13,34%,35%,"$241,455",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+19,Palantir Technologies,14%,517,3.25,51%,16%,"$167,500",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+20,Juspay,15%,515,3.68,59%,12%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+21,Palantir,15%,513,3.25,51%,16%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+22,G-Research,15%,350,3.45,50%,26%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+23,Via Transportation,15%,497,3.01,32%,48%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+24,Virtu Financial,15%,364,3.08,40%,22%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+25,Stripe,16%,915,3.24,48%,26%,"$436,500",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+26,Zoho,16%,502,3.36,71%,7%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+27,Flow,16%,494,3.34,55%,13%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+28,Roblox,16%,757,3.47,49%,14%,"$231,405",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+29,NVIDIA,16%,"2,235",3.21,58%,17%,"$247,000",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+30,Fetch,17%,320,2.93,31%,51%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+31,Plaid,17%,576,2.94,42%,34%,"$369,992",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+32,SeatGeek,17%,406,2.92,44%,31%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+33,Pinterest,18%,"1,712",3.23,49%,24%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+34,Netflix,18%,"1,702",3.12,54%,23%,"$514,000",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+35,Asana,18%,710,3.06,42%,39%,"$292,400",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+36,Ion Group,18%,505,3.12,58%,11%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+37,Whova,19%,302,2.92,21%,55%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+38,Canva,19%,521,3.23,50%,31%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+39,DeltaX,19%,504,3.20,43%,26%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+40,Rippling,19%,"1,149",3.02,39%,40%,"$298,139",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+41,GitHub,19%,443,2.87,41%,42%,"$260,420",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+42,Duolingo,19%,415,3.16,46%,28%,"$212,500",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+43,DoorDash,19%,"1,043",3.07,36%,35%,"$336,591",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+44,Bloomberg,19%,895,3.15,54%,18%,"$217,500",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+45,Meesho,19%,526,3.34,58%,16%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+46,Etsy,19%,459,2.89,41%,41%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+47,C3.ai,19%,504,3.13,31%,41%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+48,Adyen,20%,557,3.02,38%,42%,"$171,817",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+49,Airwallex,20%,427,2.97,31%,47%,"$222,500",https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
+50,Coinbase,20%,923,3.15,44%,29%,—,https://www.dataford.io/blog/companies-that-almost-never-make-an-offer-2026
